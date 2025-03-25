@@ -47,10 +47,12 @@
 **Highlight Visualization**
 **Visualization Output:**
 
-[![Distribution of Sale Prices by State](./sale_price_by_state.png)](./sale_price_by_state.png)
+[![Distribution of Sale Prices by State](https://github.com/ABCD123-GOLD/Budozer-price-prediction-project/raw/main/Images/Sales%20Price%20by%20%20States.png)](https://github.com/ABCD123-GOLD/Budozer-price-prediction-project/raw/main/Images/Sales%20Price%20by%20%20States.png)
 
-[![Sale Price vs. Machine Hours](./sale_price_vs_machine_hours.png)](./sale_price_vs_machine_hours.png)
+[![Sale Price vs. Machine Hours](https://github.com/ABCD123-GOLD/Budozer-price-prediction-project/blob/main/Images/Sales%20price%20Vs%20Machine%20hour.png)](https://github.com/ABCD123-GOLD/Budozer-price-prediction-project/blob/main/Images/Sales%20price%20Vs%20Machine%20hour.png)
 
+**Key Drivers of Bulldozer Prices: Feature Importance Ranking:**
+[![Key Drivers of Bulldozer Prices: Feature Importance Ranking](https://github.com/ABCD123-GOLD/Budozer-price-prediction-project/blob/main/Images/Feature%20impoortance.png)](https://github.com/ABCD123-GOLD/Budozer-price-prediction-project/blob/main/Images/Feature%20impoortance.png)
 
 ## 7. Results and Conclusion
 
